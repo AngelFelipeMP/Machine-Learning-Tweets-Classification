@@ -1,6 +1,6 @@
 # AI-UPV at IberLEF-2021 DETOXIS task: Toxicity Detection in Immigration-Related Web News Comments Using Transformers and Statistical Models
 
-![Alt text](/Machine-Learning-Tweets-Classification/General cross-validation diagram.png?raw=true "General Cross-Validation Diagram")
+![ScreenShot](/General cross-validation diagram.png)
 
 # Description:
 This repository contains the code for the paper AI-UPV at IberLEF-2021 DETOXIS task: Toxicity Detection in Immigration-Related Web News Comments Using Transformers and Statistical Models. This paper will be published at the SEPLN-WS-IberLEF 2021 (the 3rd Workshop on Iberian Languages Evaluation Forum at the SEPLN 2021 Conference) scientific event. Descriptions of the implementation and the dataset are contained in the paper (link: Paper is soon...).
@@ -15,7 +15,7 @@ DETOXIS shared Task Organizers
 Task website: https://detoxisiberlef.wixsite.com/website/task
 Contact: detoxis.iberlef@gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI0ODgzOTMsLTEzNjQwNzEyODQsNT
-EzMjY4MjU1LC0xNjM3ODE4NDM5LDc5MDA4ODQ0MiwtMjA5NjIz
-MTg5Nl19
+eyJoaXN0b3J5IjpbOTEyNjQ0MzM1LC0xODEyNDg4MzkzLC0xMz
+Y0MDcxMjg0LDUxMzI2ODI1NSwtMTYzNzgxODQzOSw3OTAwODg0
+NDIsLTIwOTYyMzE4OTZdfQ==
 -->
