@@ -37,7 +37,7 @@ If you find this [article](http://ceur-ws.org/Vol-2943/detoxis_paper2.pdf) or th
 # Credits
 DETOXIS 2021 shared Task Organizers
 
-DETOXIS 2021 proceedings: http://ceur-ws.org/Vol-2943/exist_paper2.pdf
+DETOXIS 2021 proceedings: http://ceur-ws.org/Vol-2943/
 
 Task website: https://detoxisiberlef.wixsite.com/website/task
 
