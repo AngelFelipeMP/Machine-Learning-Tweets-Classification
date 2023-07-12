@@ -15,24 +15,13 @@ If you find this [article](http://ceur-ws.org/Vol-2943/detoxis_paper2.pdf) or th
 ```
 @article{depaula2021detoxis,
   title={AI-UPV at IberLEF-2021 DETOXIS task: Toxicity Detection in Immigration-Related Web News Comments Using Transformers and Statistical Models},
-  author={de Paula, Angel Felipe Magnoss{\~a}o and da Silva, Roberto Fray and Schlicht, Ipek Baris},
+  author={Magnoss{\~a}o de Paula, Angel Felipe and da Silva, Roberto Fray and Schlicht, Ipek Baris},
   booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2021), XXXVII International Conference of the Spanish Society for Natural Language Processing.,  Málaga, Spain},
   volume={2943},
   pages={547-566},
   year={2021}
 }
 ```
-
-```
-@article{depaula2021detoxisarxiv,
-  title={AI-UPV at IberLEF-2021 DETOXIS task: Toxicity Detection in Immigration-Related Web News Comments Using Transformers and Statistical Models},
-  author={de Paula, Angel Felipe Magnossao and Schlicht, Ipek Baris},
-  journal={arXiv preprint arXiv:2111.04530},
-  year={2021}
-}
-```
-
-  
 
 # Credits
 DETOXIS 2021 shared Task Organizers
